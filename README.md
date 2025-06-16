@@ -6,10 +6,9 @@ This repository contains exercises, assignments, and projects from my Deep Learn
 
 The repository includes:
 
-- 📓 Jupyter notebooks with lecture notes and hands-on practice
-- 🧠 Neural network implementations using TensorFlow and/or PyTorch
+- 📓 Jupyter notebooks
+- 🧠 Neural network implementations using TensorFlow
 - 📊 Model evaluation metrics and visualizations
-- 🗂️ Project folders for individual assignments
 
 ## 🛠️ Tools & Libraries
 
